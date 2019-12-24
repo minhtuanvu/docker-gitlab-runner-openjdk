@@ -1,4 +1,4 @@
-FROM circleci/openjdk:11.0.1-jdk-node
+FROM circleci/openjdk:11.0.1-jdk
 
 USER root
 
